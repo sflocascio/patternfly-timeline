@@ -1,4 +1,4 @@
-patternfly-timeline
+timeline
 ==========
 
 A time based/event series interactive visualization using d3.js. Use drag and zoom to navigate in time. [View the demo here.](https://rawgit.com/patternfly/patternfly-timeline/master-dist/demo/)
